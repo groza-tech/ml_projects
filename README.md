@@ -1,5 +1,4 @@
-# ml_projects-
-My Machine Learning pet projects
+# Machine Learning pet projects
 | Проект | Инструменты | 
  |:---------------------------:| :---------------------------:|
 | 1. Классификаиция клиентов телеком компании | Python, Pandas, Matplotlib, Scikit-learn |
